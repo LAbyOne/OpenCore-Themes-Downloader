@@ -2,5 +2,5 @@
 # 
 ### A Simple App to get some OC themes
 #
-# Release Download :
+Download :
 ###  [Here](https://github.com/HelmoHass/OpenCore-Themes-Downloader/releases)
