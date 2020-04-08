@@ -5,7 +5,7 @@
 # Themes Screenshots
 # 
 # Opencore
-![Screenshot](https://github.com/HelmoHass/OpenCoreThemes/Opencore/ScreenShot.png)
+![Screenshot](https://github.com/HelmoHass/OpenCoreThemes/blob/master/Opencore/ScreenShot.png)
 # 
 # Silver
 This contains 4 variations
