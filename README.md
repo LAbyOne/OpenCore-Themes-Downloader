@@ -2,6 +2,9 @@
 # 
 ### A Simple App to get some OC themes
 #
+Download :
+###  [Here](https://github.com/HelmoHass/OpenCore-Themes-Downloader/releases)
+#
 # Themes Screenshots
 # 
 # Opencore
@@ -66,7 +69,4 @@ for all 3 Themes you have a few alternate icons and fonts to replace if you like
 ### Velvet
 ![Screenshot](https://github.com/HelmoHass/OpenCoreThemes/blob/master/PitchBlack/Velvet/ScreenShot.png)
 # 
-### 
-#
-Download :
-###  [Here](https://github.com/HelmoHass/OpenCore-Themes-Downloader/releases)
+###
