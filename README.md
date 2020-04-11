@@ -3,7 +3,7 @@
 ### A Simple App to get some OC themes
 #
 Download :
-###  [Here](https://github.com/HelmoHass/OpenCore-Themes-Downloader/releases)
+###  [Here](https://github.com/LAbyOne/OpenCore-Themes-Downloader/releases)
 #
 # Themes Screenshots
 # 
