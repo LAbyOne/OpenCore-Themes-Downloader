@@ -1,6 +1,6 @@
 # OpenCore-Themes-Downloader
 # 
-### A Simple App to get some OC themes
+### Little App to download my OpenCore Themes 
 #
 Download :
 ###  [Here](https://github.com/LAbyOne/OpenCore-Themes-Downloader/releases)
